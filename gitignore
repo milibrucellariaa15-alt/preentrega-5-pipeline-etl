@@ -1,0 +1,16 @@
+# Dataset original
+data/
+
+# Archivos generados por el pipeline
+output/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
